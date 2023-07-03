@@ -1,0 +1,5 @@
+### GET request with a header
+GET http://127.0.0.1:
+Accept: application/json
+
+
